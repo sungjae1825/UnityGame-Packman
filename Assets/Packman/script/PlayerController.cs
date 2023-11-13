@@ -26,7 +26,7 @@ public class PlayerController : MonoBehaviour
     
 
     private Text lifeLostTextUI;
-    public TMP_Text lifeUI;
+    public Text lifeUI;
     private AudioSource audioSource;
     int itemcolider = 0;
     private void Start()
